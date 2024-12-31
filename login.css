@@ -1,0 +1,36 @@
+*
+{
+
+	margin: 0px;
+	padding: 0px;
+}
+#container
+{
+	font-weight: bold;
+	position: center;
+	padding: 70px;
+
+	text-align: center;
+
+	background-color: skyblue;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+.btnlogin
+{
+margin-top: 5px;
+font-weight: bold;
+padding: 5px;
+
+}
+body{
+	background-color: gray;
+}
+
+h1
+{
+	color: orange;
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 35px;
+}
